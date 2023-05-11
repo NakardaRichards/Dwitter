@@ -26,3 +26,6 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+
+![Dwitter](https://github.com/NakardaRichards/Twitter-Clone/assets/47284387/1c295400-d323-42ac-86c2-8909dc3d939d)
